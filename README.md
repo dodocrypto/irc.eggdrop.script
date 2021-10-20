@@ -43,6 +43,6 @@ cd ~/eggdrop
 ./eggdrop -m ./0dev.cfg
 
 
-contact : https://discord.me/0dev
+contact : https://discord.me/0dev or irc.libera.chat channel #0dev
 
 
