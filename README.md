@@ -10,12 +10,12 @@ sudo apt-get install openssl libssl-dev
 
 ##### TO USE IT :
 Download Lastest eggdrop
-Currently 1.8.4 : https://www.eggheads.org/
-wget http://ftp.eggheads.org/pub/eggdrop/source/1.8/eggdrop-1.8.4.tar.gz
+Currently 1.9.1 : https://www.eggheads.org/
+wget https://ftp.eggheads.org/pub/eggdrop/source/1.9/eggdrop-1.9.1.tar.gz
 
 #### Installing
-tar -zxvf eggdrop-1.8.4.tar.gz
-cd eggdrop-1.8.4
+tar -zxvf eggdrop-1.9.1.tar.gz
+cd eggdrop-1.9.1
 ./configure
 ./make config
 ./make 
@@ -27,12 +27,9 @@ cd eggdrop-1.8.4
 #### Setting Up
 cd ~/eggdrop
 mv 0dev.cfg at ~/eggdrop
-mv alltools.tcl scripts/alltools.tcl
-mv action.fix.tcl scripts/action.fix.tcl
 mv 0dev.tcl scripts/0dev.tcl
 mv urltitle scripts/urltitle.tcl
-mv g_base64.tcl scripts/g_base64.tcl
-mv gcap.tcl scripts/g_cap.tcl
+
 
 ### EDIT SETTING ###
 
