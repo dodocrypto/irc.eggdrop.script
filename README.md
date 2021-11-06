@@ -9,37 +9,38 @@ sudo apt-get install tcl tcl-dev
 sudo apt-get install openssl libssl-dev
 
 ##### TO USE IT :
-Download Lastest eggdrop
-Currently 1.9.1 : https://www.eggheads.org/
-wget https://ftp.eggheads.org/pub/eggdrop/source/1.9/eggdrop-1.9.1.tar.gz
+1. Download Lastest eggdrop
+2. Currently 1.9.1 : https://www.eggheads.org/
+3. wget https://ftp.eggheads.org/pub/eggdrop/source/1.9/eggdrop-1.9.1.tar.gz
 
 #### Installing
-tar -zxvf eggdrop-1.9.1.tar.gz
-cd eggdrop-1.9.1
-./configure
-./make config
-./make 
-./make install
+1. tar -zxvf eggdrop-1.9.1.tar.gz
+2. cd eggdrop-1.9.1
+3. ./configure
+4. ./make config
+5. ./make 
+6. ./make install
 
 ##### To Support SSL
-./make sslcert
+1. ./make sslcert
 
 #### Setting Up
-cd ~/eggdrop
-mv 0dev.cfg at ~/eggdrop
-mv 0dev.tcl scripts/0dev.tcl
-mv urltitle scripts/urltitle.tcl
+1. cd ~/eggdrop
+2. mv 0dev.cfg at ~/eggdrop
+3. mv 0dev.tcl scripts/0dev.tcl
+4. mv urltitle scripts/urltitle.tcl
 
 
 ### EDIT SETTING ###
 
-vi ~/eggdrop/0dev.cfg
+1. vi ~/eggdrop/0dev.cfg
 
 ### Start IT With
-cd ~/eggdrop
-./eggdrop -m ./0dev.cfg
+1. cd ~/eggdrop
+2. ./eggdrop -m ./0dev.cfg
 
-
-contact : https://discord.me/0dev or irc.libera.chat channel #0dev
-
+### Contact us
+1. contact : https://discord.me/0dev 
+2. ircs://irc.libera.chat channel #0dev
+3. irc.libera.chat channel #0dev
 
