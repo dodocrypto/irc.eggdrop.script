@@ -2,11 +2,11 @@
 
 #Make sure Tcl AND it’s dev packages are installed on your #system. On Debian-based systems, this is done with:
 
-sudo apt-get install tcl tcl-dev
+1. sudo apt-get install tcl tcl-dev
 
 #It is also STRONGLY recommended to have openssl installed, #to enable SSL/TLS protection:
 
-sudo apt-get install openssl libssl-dev
+1. sudo apt-get install openssl libssl-dev
 
 ##### TO USE IT :
 1. Download Lastest eggdrop
