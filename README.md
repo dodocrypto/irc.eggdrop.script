@@ -39,8 +39,17 @@
 1. cd ~/eggdrop
 2. ./eggdrop -m ./0dev.cfg
 
+### How to use ?
+1. /msg YOURBOT pass [ your password here ]
+2. /msg YOURBOT auth [ your password here ]
+3. /msg YOURBOT help
+4. READ THE INSTRUCTION
+
 ### Contact us
 1. contact : https://discord.me/0dev 
 2. ircs://irc.libera.chat channel #0dev
 3. irc.libera.chat channel #0dev
+
+
+
 
