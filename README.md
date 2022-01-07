@@ -47,10 +47,6 @@
 3. /msg YOURBOT help
 4. READ THE INSTRUCTION
 
-### Contact us
-1. contact : https://discord.me/0dev 
-2. ircs://irc.libera.chat channel #0dev
-3. irc.libera.chat channel #0dev
 
 
 
