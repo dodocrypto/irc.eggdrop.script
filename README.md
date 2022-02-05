@@ -26,10 +26,8 @@
 
 #### Setting Up
 1. cd ~/eggdrop
-2. mv 0dev.cfg at ~/eggdrop
-3. mv 0dev.tcl scripts/0dev.tcl
-4. mv urltitle scripts/urltitle.tcl
-5. mv google.tcl scripts/google.tcl
+2. download eggdrop.tar
+3. tar -xvf eggdrop.tar
 
 
 
